@@ -177,8 +177,7 @@ footer{
     width: 50%;
 }
 
-footer input[type="text"],  footer input[type="email"],  footer input[type="message"]{
-    height: 64px;
+footer input[type="text"],  footer input[type="email"],  footer textarea{
     border-radius: 5;
     background-color: white;
     display: block;
